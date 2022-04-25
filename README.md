@@ -1,0 +1,1 @@
+I will be working on building a simple recipe website using HTML. Upon completing the project, I would have successfully demonstrated the ability to use HTML to create basic websites and publish it to GitHUb.
